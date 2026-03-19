@@ -1,0 +1,6 @@
+limit,Glucose,BloodPressure,Insulin,BMI
+Tiny,70,30,-0.1,0
+Low,70,60,16,18.5
+Normal,99,80,166,25
+High,125,90,166,30
+Excessive,200,200,300,60
